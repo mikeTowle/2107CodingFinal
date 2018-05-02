@@ -1,0 +1,83 @@
+Inventory Report
+
+ID:              2JST
+Description:     Murachs JavaScript (2nd Edition)
+Price:           54.500000
+Quantity:        6937
+
+ID:              2QRY
+Description:     Murachs jQuery (2nd Edition)
+Price:           54.500000
+Quantity:        677 ****Low Inventory
+
+ID:              A46C
+Description:     Murachs ASP.NET 4.6 Web Programming with C# 2015
+Price:           57.500000
+Quantity:        4637
+
+ID:              A46V
+Description:     Murachs ASP.NET 4.6 Web Programming with VB 2015
+Price:           57.500000
+Quantity:        3974
+
+ID:              ADC4
+Description:     Murachs ADO.NET 4 with C# 2010
+Price:           56.500000
+Quantity:        3756
+
+ID:              ADV4
+Description:     Murachs ADO.NET 4 with VB 2010
+Price:           56.500000
+Quantity:        4538
+
+ID:              CRFC
+Description:     Murachs CICS Desk Reference
+Price:           50.000000
+Quantity:        1865 ****Low Inventory
+
+ID:              CS15
+Description:     Murachs C# 2015
+Price:           56.500000
+Quantity:        5136
+
+ID:              DB1R
+Description:     DB2 for the COBOL Programmer Part 1 (2nd Edition)
+Price:           42.000000
+Quantity:        4825
+
+ID:              DB2R
+Description:     DB2 for the COBOL Programmer Part 2 (2nd Edition)
+Price:           45.000000
+Quantity:        621 ****Low Inventory
+
+ID:              JAVP
+Description:     Murachs Java Programming
+Price:           56.500000
+Quantity:        3455
+
+ID:              JSP2
+Description:     Murachs Java Servlets and JSP (3rd Edition)
+Price:           57.500000
+Quantity:        4999
+
+ID:              MCBL
+Description:     Murachs Structured COBOL
+Price:           62.500000
+Quantity:        2386
+
+ID:              MCCP
+Description:     Murachs CICS for the COBOL Programmer
+Price:           54.000000
+Quantity:        2368
+
+ID:              SQ12
+Description:     Murachs SQL Server 2012
+Price:           57.500000
+Quantity:        2465
+
+ID:              VB15
+Description:     Murachs Visual Basic 2015
+Price:           56.500000
+Quantity:        2193
+
+TOTAL VALUE OF INVENTORY:    $3018024.50

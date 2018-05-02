@@ -1,0 +1,16 @@
+2JST,Murachs JavaScript (2nd Edition),54.50,6937
+2QRY,Murachs jQuery (2nd Edition),54.50,677
+A46C,Murachs ASP.NET 4.6 Web Programming with C# 2015,57.50,4637
+A46V,Murachs ASP.NET 4.6 Web Programming with VB 2015,57.50,3974
+ADC4,Murachs ADO.NET 4 with C# 2010,56.50,3756
+ADV4,Murachs ADO.NET 4 with VB 2010,56.50,4538
+CRFC,Murachs CICS Desk Reference,50.00,1865
+CS15,Murachs C# 2015,56.50,5136
+DB1R,DB2 for the COBOL Programmer Part 1 (2nd Edition),42.00,4825
+DB2R,DB2 for the COBOL Programmer Part 2 (2nd Edition),45.00,621
+JAVP,Murachs Java Programming,56.50,3455
+JSP2,Murachs Java Servlets and JSP (3rd Edition),57.50,4999
+MCBL,Murachs Structured COBOL,62.50,2386
+MCCP,Murachs CICS for the COBOL Programmer,54.00,2368
+SQ12,Murachs SQL Server 2012,57.50,2465
+VB15,Murachs Visual Basic 2015,56.50,2193
