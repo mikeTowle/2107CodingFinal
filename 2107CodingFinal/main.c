@@ -101,7 +101,7 @@ void delete_product_array(ProductArray* prodArray) {
  the array is full, it should reallocate, the array increasing the length
  by GROW_SIZE,  and check for realloc failure.  It should then copy the
  data from the Product to the ProductArray and add 1 to the count (suggest
- adding 1 instead of incrementing due to operator precedence issues).
+ adding 1 instead of incrementing due to operator precedence issuesa).
  */
 void insert_product(ProductArray* prodArray, Product p) {
     if (prodArray->quantity == prodArray->length) {
